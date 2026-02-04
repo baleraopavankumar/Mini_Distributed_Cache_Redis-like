@@ -38,7 +38,7 @@ To manage limited memory efficiently, eviction policies such as Least Recently U
 
 Cache consistency is maintained by invalidating or updating cache entries whenever the underlying database data changes.
 
-<img src="https://github.com/baleraopavankumar/mini-distributed-cache/blob/main/Eviction_Policy.png"/>
+<img src="https://github.com/baleraopavankumar/Mini_Distributed_Cache_Redis-like/blob/main/AB.png"/>
 ---
 
 Fault Tolerance and Reliability
