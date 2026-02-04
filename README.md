@@ -1,5 +1,6 @@
 Mini Distributed Cache System
 
+<img src = ""/>
 
 ---
 
@@ -74,7 +75,7 @@ The Mini Distributed Cache System demonstrates reduced database load and faster 
 
 This project showcases practical implementation of caching strategies commonly used in large-scale systems.
 
-<img src="https://github.com/baleraopavankumar/mini-distributed-cache/blob/main/Results.png"/>
+<img src="https://github.com/baleraopavankumar/Mini_Distributed_Cache_Redis-like/blob/main/EF.png"/>
 ---
 
 Directions to Download the Repository and Run the Project
