@@ -56,7 +56,7 @@ The database acts as the source of truth, while the cache serves as a performanc
 
 This read-through and write-through caching strategy ensures data consistency across the system.
 
-<img src="https://github.com/baleraopavankumar/mini-distributed-cache/blob/main/Database_Flow.png"/>
+<img src="https://github.com/baleraopavankumar/Mini_Distributed_Cache_Redis-like/blob/main/CD.png"/>
 ---
 
 Performance Optimization
